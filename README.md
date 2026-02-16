@@ -58,3 +58,7 @@ containers, pipelines, distributed systems, late night coding arcs
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=120&section=footer"/>
 </p>
+
+<p align="center">
+<img src="banner.gif" width="100%"/>
+</p>
