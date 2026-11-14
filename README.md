@@ -1,64 +1,53 @@
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=220&section=header&text=Krishna%20Latwal&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
-</p>
-
-<h2 align="center">⚡ devops tinkerer • cloud builder • certified vibe coder ⚡</h2>
+<h1 align="center">Krishna Latwal</h1>
 
 <p align="center">
-i automate things, break clusters, fix them again, and repeat  
-containers, pipelines, distributed systems, late night coding arcs
-</p>
-
----
-
-## 🌀 system arc i'm on right now
-
-- scaling kubernetes experiments
-- container-first backend design
-- event-driven microservices
-- infra as code
-- linux + networking rabbit holes
-- building stuff that survives production chaos
-
----
-
-## ⚔️ weapons of choice
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,terraform,linux,githubactions,jenkins,nodejs,express,mongodb,java,python,git&theme=dark"/>
-</p>
-
----
-
-## 🌌 github chakra
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krishnalatwal&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishnalatwal&theme=tokyonight&hide_border=true"/>
+  DevOps &amp; cloud engineer · backend developer<br/>
+  I automate infrastructure, build REST APIs, and ship things that survive production.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnalatwal&layout=compact&theme=tokyonight&hide_border=true"/>
+  <a href="https://portfolio-nine-xi-40uf2mut24.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0f3460?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://github.com/krishnalatwal?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
----
+## Currently
 
-## 🐍 contribution spirit
+- Scaling Kubernetes experiments and container-first backend design
+- Infrastructure as code with Terraform on AWS
+- Event-driven microservices, Linux and networking
+
+## Tech stack
+
+| | |
+|---|---|
+| **Cloud / DevOps** | <img height="28" src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,githubactions,jenkins,linux"/> |
+| **Backend** | <img height="28" src="https://skillicons.dev/icons?i=java,spring,nodejs,express,python,mongodb"/> |
+| **Mobile** | <img height="28" src="https://skillicons.dev/icons?i=kotlin,dart,flutter"/> |
+| **Tools** | <img height="28" src="https://skillicons.dev/icons?i=git,github,vercel"/> |
+
+## Featured projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| [spring-boot-taskmanager](https://github.com/krishnalatwal/spring-boot-taskmanager) | Task management REST API | Java 25, Spring Boot |
+| [todo-rest-api](https://github.com/krishnalatwal/todo-rest-api) | Todo REST API with Swagger docs | Spring Boot, JPA, MySQL |
+| [terraform-static-website](https://github.com/krishnalatwal/terraform-static-website) | Static website infrastructure as code | Terraform, AWS |
+| [AWS_Three_Tier_App_Arch](https://github.com/krishnalatwal/AWS_Three_Tier_App_Arch) | Three-tier application architecture on AWS | AWS |
+| [TrackBits](https://track-bits.vercel.app) ([code](https://github.com/krishnalatwal/TrackBits)) | Notes and to-dos dashboard with JWT auth | Node.js, MongoDB |
+| [class-reminder](https://github.com/krishnalatwal/class-reminder) | Android app that reminds students of classes | Kotlin |
+
+## GitHub activity
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=krishnalatwal&theme=tokyonight&hide_border=true"/>
+    <img alt="Contribution streak" src="https://streak-stats.demolab.com?user=krishnalatwal&theme=default&hide_border=true"/>
+  </picture>
 </p>
 
----
-
 <p align="center">
-⚡ built with caffeine + containers + anime soundtrack loops ⚡
-</p>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=120&section=footer"/>
-</p>
-
-<p align="center">
-<img src="banner.gif" width="100%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krishnalatwal/krishnalatwal/output/github-snake-dark.svg"/>
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/krishnalatwal/krishnalatwal/output/github-snake.svg"/>
+  </picture>
 </p>
