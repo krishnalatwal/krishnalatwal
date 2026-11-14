@@ -1,8 +1,11 @@
-<h1 align="center">Krishna Latwal</h1>
+<h1 align="center">Hi, I'm Krishna</h1>
 
 <p align="center">
-  DevOps &amp; cloud engineer · backend developer<br/>
-  I automate infrastructure, build REST APIs, and ship things that survive production.
+  <b>Software Engineer | Backend Development | Cloud &amp; AI</b>
+</p>
+
+<p align="center">
+  Computer Science graduate interested in building practical software, backend systems, and AI-powered applications.
 </p>
 
 <p align="center">
@@ -10,19 +13,22 @@
   <a href="https://github.com/krishnalatwal?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
-## Currently
+## About
 
-- Scaling Kubernetes experiments and container-first backend design
-- Infrastructure as code with Terraform on AWS
-- Event-driven microservices, Linux and networking
+- Working with Java, Spring Boot, REST APIs, and Flutter
+- Exploring cloud computing, DevOps, and system design
+- Interested in Generative AI, LLMs, AI agents, and MCP
+- I learn by building projects and experimenting with technology
+
+**Interests:** Backend Engineering · Mobile Development · Cloud Infrastructure · Automation · Generative AI
 
 ## Tech stack
 
 | | |
 |---|---|
-| **Cloud / DevOps** | <img height="28" src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,githubactions,jenkins,linux"/> |
-| **Backend** | <img height="28" src="https://skillicons.dev/icons?i=java,spring,nodejs,express,python,mongodb"/> |
-| **Mobile** | <img height="28" src="https://skillicons.dev/icons?i=kotlin,dart,flutter"/> |
+| **Backend** | <img height="28" src="https://skillicons.dev/icons?i=java,spring,nodejs,express,python,mysql,mongodb"/> |
+| **Mobile** | <img height="28" src="https://skillicons.dev/icons?i=flutter,dart,kotlin"/> |
+| **Cloud / DevOps** | <img height="28" src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,githubactions,linux"/> |
 | **Tools** | <img height="28" src="https://skillicons.dev/icons?i=git,github,vercel"/> |
 
 ## Featured projects
@@ -51,3 +57,5 @@
     <img alt="Contribution snake" src="https://raw.githubusercontent.com/krishnalatwal/krishnalatwal/output/github-snake.svg"/>
   </picture>
 </p>
+
+<p align="center"><i>Always learning. Always building.</i></p>
