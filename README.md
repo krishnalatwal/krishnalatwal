@@ -1,61 +1,132 @@
-<h1 align="center">Hi, I'm Krishna</h1>
+<table width="100%">
+  <tr>
+    <td><code>@krishnalatwal / README.md</code></td>
+    <td align="right"><code>PERSONAL PROFILE</code></td>
+  </tr>
+</table>
 
-<p align="center">
-  <b>Software Engineer | Backend Development | Cloud &amp; AI</b>
-</p>
+<br/>
 
-<p align="center">
-  Computer Science graduate interested in building practical software, backend systems, and AI-powered applications.
-</p>
+<code>HELLO, WORLD. I'M</code>
 
-<p align="center">
-  <a href="https://portfolio-nine-xi-40uf2mut24.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0f3460?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="https://github.com/krishnalatwal?tab=repositories"><img alt="Repositories" src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+# Krishna Latwal.<br/>Software Engineer.
 
-## About
+**Backend development · Cloud · AI**<br/>
+Computer Science graduate building practical software, backend systems, and AI-powered applications.
 
-- Working with Java, Spring Boot, REST APIs, and Flutter
-- Exploring cloud computing, DevOps, and system design
-- Interested in Generative AI, LLMs, AI agents, and MCP
-- I learn by building projects and experimenting with technology
+[`Explore my work ↓`](#a-few-things-ive-built) &nbsp; [`Let's connect ↗`](#good-things-start-with-a-conversation)
 
-**Interests:** Backend Engineering · Mobile Development · Cloud Infrastructure · Automation · Generative AI
+```bash
+$ const focus = ["backend engineering", "cloud & devops", "generative ai"];
+```
 
-## Tech stack
+---
 
-| | |
-|---|---|
-| **Backend** | <img height="28" src="https://skillicons.dev/icons?i=java,spring,nodejs,express,python,mysql,mongodb"/> |
-| **Mobile** | <img height="28" src="https://skillicons.dev/icons?i=flutter,dart,kotlin"/> |
-| **Cloud / DevOps** | <img height="28" src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,githubactions,linux"/> |
-| **Tools** | <img height="28" src="https://skillicons.dev/icons?i=git,github,vercel"/> |
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <code>01 / ABOUT ME</code>
+      <h3>Curious by default.<br/>Builder by choice.</h3>
+      <p>I work with Java, Spring Boot, REST APIs, and Flutter, and I learn by building projects and experimenting with technology.</p>
+      <p><sub><code>Currently exploring → Generative AI, LLMs, AI agents, and MCP</code></sub></p>
+    </td>
+    <td width="50%" valign="top">
+      <code>02 / MY TOOLKIT</code>
+      <h3>Tools I reach for.</h3>
+      <p>
+        <code>Java</code> <code>Spring Boot</code> <code>Node.js</code> <code>Python</code><br/><br/>
+        <code>REST APIs</code> <code>MySQL</code> <code>MongoDB</code><br/><br/>
+        <code>Flutter</code> <code>Dart</code> <code>Kotlin</code><br/><br/>
+        <code>AWS</code> <code>Terraform</code> <code>Docker</code> <code>Kubernetes</code><br/><br/>
+        <code>GitHub Actions</code> <code>Linux</code> <code>Git</code>
+      </p>
+    </td>
+  </tr>
+</table>
 
-## Featured projects
+---
 
-| Project | What it is | Stack |
-|---|---|---|
-| [spring-boot-taskmanager](https://github.com/krishnalatwal/spring-boot-taskmanager) | Task management REST API | Java 25, Spring Boot |
-| [todo-rest-api](https://github.com/krishnalatwal/todo-rest-api) | Todo REST API with Swagger docs | Spring Boot, JPA, MySQL |
-| [terraform-static-website](https://github.com/krishnalatwal/terraform-static-website) | Static website infrastructure as code | Terraform, AWS |
-| [AWS_Three_Tier_App_Arch](https://github.com/krishnalatwal/AWS_Three_Tier_App_Arch) | Three-tier application architecture on AWS | AWS |
-| [TrackBits](https://track-bits.vercel.app) ([code](https://github.com/krishnalatwal/TrackBits)) | Notes and to-dos dashboard with JWT auth | Node.js, MongoDB |
-| [class-reminder](https://github.com/krishnalatwal/class-reminder) | Android app that reminds students of classes | Kotlin |
+<code>03 / SELECTED WORK</code>
 
-## GitHub activity
+## A few things I've built.
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=krishnalatwal&theme=tokyonight&hide_border=true"/>
-    <img alt="Contribution streak" src="https://streak-stats.demolab.com?user=krishnalatwal&theme=default&hide_border=true"/>
-  </picture>
-</p>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <sub><code>BACKEND API</code></sub> &nbsp;&nbsp; <code>01</code>
+      <h3>spring-boot-taskmanager</h3>
+      <p>Task management REST API built with Java 25 and Spring Boot.</p>
+      <sub><code>Java / Spring Boot</code></sub>
+      <p><a href="https://github.com/krishnalatwal/spring-boot-taskmanager"><b>Repository ↗</b></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <sub><code>BACKEND API</code></sub> &nbsp;&nbsp; <code>02</code>
+      <h3>todo-rest-api</h3>
+      <p>Todo REST API with Swagger documentation and MySQL persistence.</p>
+      <sub><code>Spring Boot / Hibernate / MySQL</code></sub>
+      <p><a href="https://github.com/krishnalatwal/todo-rest-api"><b>Repository ↗</b></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <sub><code>INFRASTRUCTURE AS CODE</code></sub> &nbsp;&nbsp; <code>03</code>
+      <h3>terraform-static-website</h3>
+      <p>Static website infrastructure on AWS, defined and deployed with Terraform.</p>
+      <sub><code>Terraform / AWS</code></sub>
+      <p><a href="https://github.com/krishnalatwal/terraform-static-website"><b>Repository ↗</b></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <sub><code>CLOUD ARCHITECTURE</code></sub> &nbsp;&nbsp; <code>04</code>
+      <h3>AWS_Three_Tier_App_Arch</h3>
+      <p>Three-tier application architecture on AWS.</p>
+      <sub><code>AWS</code></sub>
+      <p><a href="https://github.com/krishnalatwal/AWS_Three_Tier_App_Arch"><b>Repository ↗</b></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <sub><code>WEB APPLICATION</code></sub> &nbsp;&nbsp; <code>05</code>
+      <h3>TrackBits</h3>
+      <p>Full-stack notes and to-dos dashboard with JWT auth and MongoDB.</p>
+      <sub><code>JavaScript / Node.js / MongoDB</code></sub>
+      <p><a href="https://github.com/krishnalatwal/TrackBits"><b>Repository ↗</b></a> &nbsp;&nbsp; <a href="https://track-bits.vercel.app">Live demo ↗</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <sub><code>MOBILE APP</code></sub> &nbsp;&nbsp; <code>06</code>
+      <h3>class-reminder</h3>
+      <p>Android app that reminds students of scheduled classes.</p>
+      <sub><code>Kotlin / Android</code></sub>
+      <p><a href="https://github.com/krishnalatwal/class-reminder"><b>Repository ↗</b></a></p>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/krishnalatwal/krishnalatwal/output/github-snake-dark.svg"/>
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/krishnalatwal/krishnalatwal/output/github-snake.svg"/>
-  </picture>
-</p>
+<sub><code>More experiments, small tools, and works in progress on my <a href="https://github.com/krishnalatwal?tab=repositories">repositories ↗</a></code></sub>
 
-<p align="center"><i>Always learning. Always building.</i></p>
+---
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <code>04 / SAY HELLO</code>
+
+## Good things start with a conversation.
+
+Have an idea, a question, or just want to say hi?
+    </td>
+    <td width="50%" valign="top">
+      <br/>
+      <sub><code>PORTFOLIO</code></sub> &nbsp; <a href="https://portfolio-nine-xi-40uf2mut24.vercel.app">portfolio-nine-xi-40uf2mut24.vercel.app ↗</a><br/><br/>
+      <sub><code>GITHUB</code></sub> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/krishnalatwal">github.com/krishnalatwal ↗</a>
+    </td>
+  </tr>
+</table>
+
+---
+
+<table width="100%">
+  <tr>
+    <td><sub><code>Always learning. Always building.</code></sub></td>
+    <td align="right"><sub><code>Thanks for stopping by. _</code></sub></td>
+  </tr>
+</table>
